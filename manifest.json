@@ -23,5 +23,5 @@
   "name": "Only Trance Music",
   "offline_enabled": false,
   "permissions": ["notifications", "management"],
-  "version": "0.1"
+  "version": "0.2"
 }
