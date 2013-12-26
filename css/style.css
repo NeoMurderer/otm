@@ -17,7 +17,7 @@ body {
 .dott {
 	position: absolute;
 	top:10px;
-	background: url("images/dott.png") no-repeat;
+	background: url("../images/dott.png") no-repeat;
 	width:42px;
 	height:13px;
 }
@@ -51,7 +51,7 @@ body {
 .slide {
 	width:181px;
 	height: 7px;
-	background: url("images/volume_bg.png") no-repeat;
+	background: url("../images/volume_bg.png") no-repeat;
 	position: relative;
 	margin-top: 6px;
 	cursor: normal;
